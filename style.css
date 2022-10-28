@@ -1,7 +1,7 @@
 body {
     font-family: 'Happy Monkey', cursive;
     text-align: center;
-    background: #a2d2ff;
+    background: linear-gradient(#a2d2ff, #efb0c9);
     color: #ffffff;
 }
 
@@ -70,6 +70,10 @@ h1, h2, h3, h4, p {
 
 #badass-img:hover {
     background-image: url("images/dog.gif");
+}
+
+#cheers-img:hover {
+    background-image: url("images/cheers.gif");
 }
 
 
