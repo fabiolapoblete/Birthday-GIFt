@@ -65,11 +65,11 @@ h1, h2, h3, h4, p {
 }
 
 #hottie-img:hover {
-    background-image: url("images/hottie.gif");
+    background-image: url("images/fantastic.gif");
 }
 
 #badass-img:hover {
-    background-image: url("images/badass.gif");
+    background-image: url("images/dog.gif");
 }
 
 
